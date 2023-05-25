@@ -13,6 +13,7 @@ _-_-
 * Navigation view implementation
 * Multiple Buttons
 * API integration
+* Image Display
 * Scroll feature
 
 Scroll feature included to view longer recipe instructions:
