@@ -5,7 +5,7 @@ API Source:
 https://www.themealdb.com/
 ## 
 <img width="400" alt="image" src="https://github.com/mayasoleimani/meal-decider-10000/assets/82066258/5a9c739a-2b76-419a-9afd-df782d26b9ff">
-_-_-
+
 <img width="400" alt="image" src="https://github.com/mayasoleimani/meal-decider-10000/assets/82066258/00f1a762-019a-46ff-a924-2a9c46641f4f">
 
 ##
